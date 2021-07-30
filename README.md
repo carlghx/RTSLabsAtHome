@@ -18,4 +18,5 @@ Console app for non-NUNit testing is ConsoleTest
 #3 If you could change 1 thing about your favorite framework/language/platform (pick one), what would it be?
 
 Visual Studio is resource intensive. This was very noticeable at my previous jobs with older machines.
+
 The Warcraft 3 World Editor doesn't have automated garbage collection even though pretty much every variable is a reference pointer.
