@@ -1,6 +1,8 @@
 # RTSLabsAtHome
 RTS Labs At Home Coding Exercise
 
+This was created using Microsoft Visual Studio 2019
+
 #1 Print the number of integers in an array that are above the given input and the number that are below, e.g. for the array [1, 5, 2, 1, 10] with input 6, print “above: 1, below: 4”.
 Solution is in ClassLibrary\AboveAndBelow\AboveAndBelow.cs
 NUnit Testing is in AboveAndBelowTests.cs
